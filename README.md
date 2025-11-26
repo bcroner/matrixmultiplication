@@ -1,2 +1,2 @@
 # matrixmultiplication
-matrix multiplication in O(n^2)
+matrix multiplication in O(n^2logn)

@@ -1,5 +1,5 @@
 <h1 align="center">
-`Matrix Multiplication in log<sub>2</sub>(6)`
+`Matrix Multiplication in O(log<sub>2</sub>(6))`
 </h1>
 
 |||  
